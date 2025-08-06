@@ -1,5 +1,7 @@
 # EE708-Data-Science-and-Machine-Intelligence
 
+# Facial Expression Recognition
+
 Implemented a 4-layer CNN model for classifying facial expressions into 7 emotion categories.
 
 # Features
