@@ -2,13 +2,14 @@
 
 Implemented a 4-layer CNN model for classifying facial expressions into 7 emotion categories.
 
-Features
+# Features
 Data augmentation for class imbalance Grayscale image preprocessing (48x48) 4-layer CNN with batch normalization Learning rate scheduling Adam optimizer
 
-Usage
+# Usage
 Run the code using ---> Python Main.py
 
-Dataset Structure
+# Dataset Structure
+
 train/
 ├── anger/
 ├── disgust/
