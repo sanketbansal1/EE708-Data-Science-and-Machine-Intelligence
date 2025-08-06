@@ -6,11 +6,12 @@ Implemented a 4-layer CNN model for classifying facial expressions into 7 emotio
 Data augmentation for class imbalance Grayscale image preprocessing (48x48) 4-layer CNN with batch normalization Learning rate scheduling Adam optimizer
 
 # Usage
-Run the code using ---> Python Main.py
+Run the code using ---> Python main.py
 
 # Dataset Structure
 
 train/
+
 ├── anger/
 ├── disgust/
 ├── fear/
